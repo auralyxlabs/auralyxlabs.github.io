@@ -1,0 +1,734 @@
+{
+    "version": "0.4",
+    "title": "Testimonials",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "5c3f5053",
+            "settings": {
+                "flex_direction": "column",
+                "flex_align_items_tablet": "center",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/thememxpro.com\/templatekit\/webvibe\/wp-content\/uploads\/2025\/10\/New-Project-60.jpg",
+                    "id": 608,
+                    "size": "",
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_position": "center center",
+                "background_attachment": "scroll",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.6999999999999999555910790149937383830547332763671875,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "20",
+                    "bottom": "50",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "globals\/colors?id=primary"
+                }
+            },
+            "elements": [
+                {
+                    "id": "654b45c",
+                    "settings": {
+                        "content_width": "full",
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 80,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_direction": "row",
+                        "flex_direction_tablet": "column",
+                        "flex_justify_content": "space-between",
+                        "flex_align_items": "center",
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "1ee3f79f",
+                            "settings": {
+                                "title": "Our testimonials",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=d05bca6",
+                                    "title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "776094ac",
+                            "settings": {
+                                "view": "inline",
+                                "icon_list": [
+                                    {
+                                        "text": "Home",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "a291e66"
+                                    },
+                                    {
+                                        "text": "\/",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        },
+                                        "_id": "2d05dc3"
+                                    },
+                                    {
+                                        "_id": "b0d42ba",
+                                        "text": "testimonials",
+                                        "selected_icon": {
+                                            "value": "",
+                                            "library": ""
+                                        }
+                                    }
+                                ],
+                                "space_between": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "icon_color": "globals\/colors?id=accent",
+                                    "icon_typography_typography": "globals\/typography?id=15d1f4e",
+                                    "text_color": "globals\/colors?id=secondary",
+                                    "text_color_hover": "globals\/colors?id=ef60204"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-list",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        },
+        {
+            "id": "1c430fcb",
+            "settings": {
+                "flex_direction": "column",
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "250",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "background_background": "classic",
+                "__globals__": {
+                    "background_color": "globals\/colors?id=56c24d8"
+                },
+                "flex_align_items_tablet": "center",
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "20",
+                    "bottom": "200",
+                    "left": "20",
+                    "isLinked": false
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "0",
+                    "bottom": "-150",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7c10397f",
+                    "settings": {
+                        "content_width": "full",
+                        "flex_direction": "row",
+                        "background_background": "classic",
+                        "border_radius": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "50",
+                            "bottom": "50",
+                            "left": "50",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "100",
+                            "right": "50",
+                            "bottom": "100",
+                            "left": "50",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "background_color": "globals\/colors?id=accent"
+                        },
+                        "width_tablet": {
+                            "unit": "%",
+                            "size": 95,
+                            "sizes": []
+                        },
+                        "width_mobile": {
+                            "unit": "%",
+                            "size": "",
+                            "sizes": []
+                        },
+                        "flex_direction_tablet": "column",
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "50",
+                            "right": "20",
+                            "bottom": "50",
+                            "left": "20",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "4def515d",
+                            "settings": {
+                                "content_width": "full",
+                                "width": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "width_tablet": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "width_mobile": {
+                                    "unit": "%",
+                                    "size": "",
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "7479c319",
+                                    "settings": {
+                                        "ekit_testimonial_data": [
+                                            {
+                                                "client_name": "Ashikuzzaman",
+                                                "_id": "a7bdae8",
+                                                "designation": "Designation",
+                                                "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0",
+                                                "client_photo": {
+                                                    "url": "https:\/\/thememxpro.com\/templatekit\/webvibe\/wp-content\/uploads\/2025\/10\/New-Project-53.jpg",
+                                                    "id": 585,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "client_logo": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                }
+                                            },
+                                            {
+                                                "client_name": "Isabella Turner",
+                                                "designation": "Designation",
+                                                "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0",
+                                                "client_photo": {
+                                                    "url": "https:\/\/thememxpro.com\/templatekit\/webvibe\/wp-content\/uploads\/2025\/10\/New-Project-56.jpg",
+                                                    "id": 587,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "_id": "598d1bf"
+                                            },
+                                            {
+                                                "client_name": "Sk samiul",
+                                                "designation": "Designation",
+                                                "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0",
+                                                "client_photo": {
+                                                    "url": "https:\/\/thememxpro.com\/templatekit\/webvibe\/wp-content\/uploads\/2025\/10\/New-Project-55.jpg",
+                                                    "id": 583,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "_id": "2d15736"
+                                            }
+                                        ],
+                                        "ekit_testimonial_style": "style5",
+                                        "ekit_testimonial_wartermark_enable": "",
+                                        "ekit_testimonial_layout_padding": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": true
+                                        },
+                                        "ekit_testimonial_layout_background_background": "classic",
+                                        "ekit_testimonial_layout_background_color": "#02010100",
+                                        "ekit_testimonial_description_color": "#E0E2E1",
+                                        "ekit_testimonial_description_active_color": "#E0E2E1",
+                                        "ekit_testimonial_review_ratting_color": "#FFEB69",
+                                        "ekit_testimonial_rating_hover_color": "#FFEB69",
+                                        "ekit_testimonial_review_ratting_font_size": {
+                                            "unit": "px",
+                                            "size": 15,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_client_name_normal_color": "#FFFFFF",
+                                        "ekit_testimonial_client_name_active_color": "#FFFFFF",
+                                        "ekit_testimonial_client_name_typography_typography": "custom",
+                                        "ekit_testimonial_client_name_typography_font_family": "Inter",
+                                        "ekit_testimonial_client_name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 22,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_client_name_typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_client_name_typography_font_weight": "500",
+                                        "ekit_testimonial_client_name_typography_text_transform": "capitalize",
+                                        "ekit_testimonial_client_name_typography_line_height": {
+                                            "unit": "em",
+                                            "size": 1.3000000000000000444089209850062616169452667236328125,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_designation_normal_color": "#E0E2E1",
+                                        "ekit_testimonial_designation_active_color": "#E0E2E1",
+                                        "ekit_testimonial_designation_typography_typography": "custom",
+                                        "ekit_testimonial_designation_typography_font_family": "Inter",
+                                        "ekit_testimonial_designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_designation_typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_designation_typography_font_weight": "400",
+                                        "ekit_testimonial_designation_typography_line_height": {
+                                            "unit": "em",
+                                            "size": 1.399999999999999911182158029987476766109466552734375,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_testimonial_layout_background_color": "globals\/colors?id=95f754e",
+                                            "ekit_testimonial_description_color": "globals\/colors?id=955d0da",
+                                            "ekit_testimonial_description_active_color": "globals\/colors?id=955d0da",
+                                            "ekit_testimonial_description_typography_typography": "globals\/typography?id=text",
+                                            "ekit_testimonial_review_ratting_color": "globals\/colors?id=d900690",
+                                            "ekit_testimonial_rating_hover_color": "globals\/colors?id=d900690",
+                                            "ekit_testimonial_client_name_normal_color": "globals\/colors?id=secondary",
+                                            "ekit_testimonial_client_name_active_color": "globals\/colors?id=secondary",
+                                            "ekit_testimonial_client_name_typography_typography": "globals\/typography?id=15d1f4e",
+                                            "ekit_testimonial_designation_normal_color": "globals\/colors?id=955d0da",
+                                            "ekit_testimonial_designation_active_color": "globals\/colors?id=955d0da",
+                                            "ekit_testimonial_designation_typography_typography": "globals\/typography?id=text",
+                                            "ekit_testimonial_layout_border_color": "globals\/colors?id=8485cc5"
+                                        },
+                                        "ekit_testimonial_slidetoshow_tablet": 1,
+                                        "ekit_testimonial_slidesToScroll_tablet": 1,
+                                        "ekit_testimonial_slidetoshow": 2,
+                                        "ekit_testimonial_autoplay": "",
+                                        "ekit_testimonial_layout_margin": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_layout_margin_mobile": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_layout_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "ekit_testimonial_layout_border_border": "solid",
+                                        "ekit_testimonial_layout_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "_background_color_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_b_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_b_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_angle_tablet": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_angle_mobile": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_position_tablet": "center center",
+                                        "_background_gradient_position_mobile": "center center",
+                                        "_background_hover_color_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_b_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_b_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_angle_tablet": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_angle_mobile": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_position_tablet": "center center",
+                                        "_background_hover_gradient_position_mobile": "center center"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "elementskit-testimonial",
+                                    "elType": "widget"
+                                },
+                                {
+                                    "id": "7d6b6a5b",
+                                    "settings": {
+                                        "ekit_testimonial_data": [
+                                            {
+                                                "client_name": "Ashikuzzaman",
+                                                "_id": "a7bdae8",
+                                                "designation": "Designation",
+                                                "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0",
+                                                "client_photo": {
+                                                    "url": "https:\/\/thememxpro.com\/templatekit\/webvibe\/wp-content\/uploads\/2025\/10\/New-Project-53.jpg",
+                                                    "id": 585,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "client_logo": {
+                                                    "url": "",
+                                                    "id": "",
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                }
+                                            },
+                                            {
+                                                "client_name": "Isabella Turner",
+                                                "designation": "Designation",
+                                                "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0",
+                                                "client_photo": {
+                                                    "url": "https:\/\/thememxpro.com\/templatekit\/webvibe\/wp-content\/uploads\/2025\/10\/New-Project-56.jpg",
+                                                    "id": 587,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "_id": "598d1bf"
+                                            },
+                                            {
+                                                "client_name": "Sk samiul",
+                                                "designation": "Designation",
+                                                "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec\u00a0",
+                                                "client_photo": {
+                                                    "url": "https:\/\/thememxpro.com\/templatekit\/webvibe\/wp-content\/uploads\/2025\/10\/New-Project-55.jpg",
+                                                    "id": 583,
+                                                    "size": "",
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "_id": "2d15736"
+                                            }
+                                        ],
+                                        "ekit_testimonial_style": "style5",
+                                        "ekit_testimonial_wartermark_enable": "",
+                                        "ekit_testimonial_layout_padding": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": true
+                                        },
+                                        "ekit_testimonial_layout_background_background": "classic",
+                                        "ekit_testimonial_layout_background_color": "#02010100",
+                                        "ekit_testimonial_description_color": "#E0E2E1",
+                                        "ekit_testimonial_description_active_color": "#E0E2E1",
+                                        "ekit_testimonial_review_ratting_color": "#FFEB69",
+                                        "ekit_testimonial_rating_hover_color": "#FFEB69",
+                                        "ekit_testimonial_review_ratting_font_size": {
+                                            "unit": "px",
+                                            "size": 15,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_client_name_normal_color": "#FFFFFF",
+                                        "ekit_testimonial_client_name_active_color": "#FFFFFF",
+                                        "ekit_testimonial_client_name_typography_typography": "custom",
+                                        "ekit_testimonial_client_name_typography_font_family": "Inter",
+                                        "ekit_testimonial_client_name_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 22,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_client_name_typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_client_name_typography_font_weight": "500",
+                                        "ekit_testimonial_client_name_typography_text_transform": "capitalize",
+                                        "ekit_testimonial_client_name_typography_line_height": {
+                                            "unit": "em",
+                                            "size": 1.3000000000000000444089209850062616169452667236328125,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_designation_normal_color": "#E0E2E1",
+                                        "ekit_testimonial_designation_active_color": "#E0E2E1",
+                                        "ekit_testimonial_designation_typography_typography": "custom",
+                                        "ekit_testimonial_designation_typography_font_family": "Inter",
+                                        "ekit_testimonial_designation_typography_font_size": {
+                                            "unit": "px",
+                                            "size": 16,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_designation_typography_font_size_mobile": {
+                                            "unit": "px",
+                                            "size": 14,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_designation_typography_font_weight": "400",
+                                        "ekit_testimonial_designation_typography_line_height": {
+                                            "unit": "em",
+                                            "size": 1.399999999999999911182158029987476766109466552734375,
+                                            "sizes": []
+                                        },
+                                        "__globals__": {
+                                            "ekit_testimonial_layout_background_color": "globals\/colors?id=95f754e",
+                                            "ekit_testimonial_description_color": "globals\/colors?id=955d0da",
+                                            "ekit_testimonial_description_active_color": "globals\/colors?id=955d0da",
+                                            "ekit_testimonial_description_typography_typography": "globals\/typography?id=text",
+                                            "ekit_testimonial_review_ratting_color": "globals\/colors?id=d900690",
+                                            "ekit_testimonial_rating_hover_color": "globals\/colors?id=d900690",
+                                            "ekit_testimonial_client_name_normal_color": "globals\/colors?id=secondary",
+                                            "ekit_testimonial_client_name_active_color": "globals\/colors?id=secondary",
+                                            "ekit_testimonial_client_name_typography_typography": "globals\/typography?id=15d1f4e",
+                                            "ekit_testimonial_designation_normal_color": "globals\/colors?id=955d0da",
+                                            "ekit_testimonial_designation_active_color": "globals\/colors?id=955d0da",
+                                            "ekit_testimonial_designation_typography_typography": "globals\/typography?id=text",
+                                            "ekit_testimonial_layout_border_color": "globals\/colors?id=8485cc5"
+                                        },
+                                        "ekit_testimonial_slidetoshow_tablet": 1,
+                                        "ekit_testimonial_slidesToScroll_tablet": 1,
+                                        "ekit_testimonial_slidetoshow": 2,
+                                        "ekit_testimonial_autoplay": "",
+                                        "ekit_testimonial_layout_margin": {
+                                            "unit": "px",
+                                            "size": 20,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_layout_margin_mobile": {
+                                            "unit": "px",
+                                            "size": 0,
+                                            "sizes": []
+                                        },
+                                        "ekit_testimonial_layout_border_radius": {
+                                            "unit": "px",
+                                            "top": "15",
+                                            "right": "15",
+                                            "bottom": "15",
+                                            "left": "15",
+                                            "isLinked": true
+                                        },
+                                        "ekit_testimonial_layout_border_border": "solid",
+                                        "ekit_testimonial_layout_border_width": {
+                                            "unit": "px",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "_background_color_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_b_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_color_b_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_angle_tablet": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_angle_mobile": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_gradient_position_tablet": "center center",
+                                        "_background_gradient_position_mobile": "center center",
+                                        "_background_hover_color_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_b_stop_tablet": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_color_b_stop_mobile": {
+                                            "unit": "%",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_angle_tablet": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_angle_mobile": {
+                                            "unit": "deg",
+                                            "size": "",
+                                            "sizes": []
+                                        },
+                                        "_background_hover_gradient_position_tablet": "center center",
+                                        "_background_hover_gradient_position_mobile": "center center"
+                                    },
+                                    "elements": [],
+                                    "isInner": false,
+                                    "widgetType": "elementskit-testimonial",
+                                    "elType": "widget"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "container"
+                        }
+                    ],
+                    "isInner": true,
+                    "elType": "container"
+                }
+            ],
+            "isInner": false,
+            "elType": "container"
+        }
+    ]
+}
