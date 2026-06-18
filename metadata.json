@@ -1,0 +1,6 @@
+{
+  "name": "Auralyx Labs",
+  "description": "A premium modern website for Auralyx Labs, a high-end customer-focused software engineering and scalable digital solutions agency.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
