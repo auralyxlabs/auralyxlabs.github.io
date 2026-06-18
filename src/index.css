@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", ui-serif, Georgia, Cambria, serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  /* Premium Rebranded Palette */
+  --color-primary-sage: #9CB080;
+  --color-secondary-green: #618764;
+  --color-deep-forest: #2B5748;
+  --color-dark-premium: #273338;
+  
+  /* Additional luxury scale */
+  --color-milk-white: #FAFDFB;
+  --color-sand: #F4F6F4;
+}
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    background-color: var(--color-milk-white);
+    color: var(--color-dark-premium);
+  }
+
+  body {
+    font-family: var(--font-sans);
+    overflow-x: hidden;
+    -webkit-font-smoothing: antialiased;
+  }
+}
+
+/* Luxury custom scrollbars */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #FAFDFB;
+  border-left: 1px solid rgba(43, 87, 72, 0.08);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #9CB080;
+  border: 3px solid #FAFDFB;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #618764;
+}
+
+/* Tech mesh grid overlays */
+.tech-bg-grid-dark {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(156, 176, 128, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(156, 176, 128, 0.04) 1px, transparent 1px);
+}
+
+.tech-bg-grid-light {
+  background-size: 30px 30px;
+  background-image: 
+    linear-gradient(to right, rgba(43, 87, 72, 0.04) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(43, 87, 72, 0.04) 1px, transparent 1px);
+}
+
+.glow-primary {
+  box-shadow: 0 20px 40px -15px rgba(156, 176, 128, 0.18);
+}
+
+.glow-forest {
+  box-shadow: 0 20px 40px -15px rgba(43, 87, 72, 0.22);
+}
